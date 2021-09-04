@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson.2</string>
+    <string name="submit">Submit</string>
+    <string name="random">Random</string>
+    <string name="image">image</string>
+    <string name="url">Напишите Url че там</string>
+</resources>
